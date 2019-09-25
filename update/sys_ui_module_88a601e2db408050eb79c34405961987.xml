@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="CRF">8ca601e2db408050eb79c34405961985</application>
+        <filter/>
+        <name>CRF</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_isgi_crf.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+        <sys_created_on>2019-09-25 10:31:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>88a601e2db408050eb79c34405961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CRF</sys_name>
+        <sys_package display_value="CRF" source="x_isgi_crf">e39605a2db408050eb79c344059619b2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CRF">e39605a2db408050eb79c344059619b2</sys_scope>
+        <sys_update_name>sys_ui_module_88a601e2db408050eb79c34405961987</sys_update_name>
+        <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+        <sys_updated_on>2019-09-25 10:31:50</sys_updated_on>
+        <table>x_isgi_crf_x_isgi_crf</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
