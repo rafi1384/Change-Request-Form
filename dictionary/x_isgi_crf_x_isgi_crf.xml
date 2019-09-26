@@ -25,7 +25,7 @@
         <element label="Current Project Name" mandatory="true" max_length="200" name="project_name" type="string"/>
         <element label="Similar to User ?" max_length="32" name="similar_to_user" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Please Specify in details" max_length="2000" name="specify" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="1" label="Workflow State" max_length="40" name="workflow_state" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="1" label="Workflow State" max_length="40" name="workflow_state" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="Draft" sequence="0" value="1"/>
                 <element inactive_on_update="false" label="Pending Approval" sequence="1" value="2"/>
