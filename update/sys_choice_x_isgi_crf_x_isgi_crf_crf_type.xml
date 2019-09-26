@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="crf_type" table="x_isgi_crf_x_isgi_crf" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>crf_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Access</label>
+            <language>en</language>
+            <name>x_isgi_crf_x_isgi_crf</name>
+            <sequence>0</sequence>
+            <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+            <sys_created_on>2019-09-25 11:11:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3bf05eedb408050eb79c344059619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+            <sys_updated_on>2019-09-25 11:11:40</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>crf_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mirror Access</label>
+            <language>en</language>
+            <name>x_isgi_crf_x_isgi_crf</name>
+            <sequence>1</sequence>
+            <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+            <sys_created_on>2019-09-25 11:10:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>497fcdaedb408050eb79c344059619fb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+            <sys_updated_on>2019-09-25 11:11:40</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>crf_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other Requests</label>
+            <language>en</language>
+            <name>x_isgi_crf_x_isgi_crf</name>
+            <sequence>2</sequence>
+            <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+            <sys_created_on>2019-09-25 10:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0ca41eadb408050eb79c3440596197d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+            <sys_updated_on>2019-09-25 11:11:40</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>crf_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New User</label>
+            <language>en</language>
+            <name>x_isgi_crf_x_isgi_crf</name>
+            <sequence>3</sequence>
+            <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+            <sys_created_on>2019-09-25 10:38:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6180566db408050eb79c344059619a7</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+            <sys_updated_on>2019-09-25 11:11:40</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>crf_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Internal Movement</label>
+            <language>en</language>
+            <name>x_isgi_crf_x_isgi_crf</name>
+            <sequence>4</sequence>
+            <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+            <sys_created_on>2019-09-25 10:38:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11084166db408050eb79c34405961917</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+            <sys_updated_on>2019-09-25 11:11:40</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>crf_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Revoke Access</label>
+            <language>en</language>
+            <name>x_isgi_crf_x_isgi_crf</name>
+            <sequence>5</sequence>
+            <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+            <sys_created_on>2019-09-25 10:37:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6df70166db408050eb79c3440596195e</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+            <sys_updated_on>2019-09-25 11:11:40</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>crf_type</element>
+            <name>x_isgi_crf_x_isgi_crf</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+            <sys_created_on>2019-09-25 10:37:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1d080166db408050eb79c3440596193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>crf_type</sys_name>
+            <sys_package display_value="CRF" source="x_isgi_crf">e39605a2db408050eb79c344059619b2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="CRF">e39605a2db408050eb79c344059619b2</sys_scope>
+            <sys_update_name>sys_choice_x_isgi_crf_x_isgi_crf_crf_type</sys_update_name>
+            <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+            <sys_updated_on>2019-09-25 10:37:55</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

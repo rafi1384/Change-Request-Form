@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>effective_date</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>mohamed.rafiulla@isg-one.com</sys_created_by>
+        <sys_created_on>2019-09-26 06:22:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f4179d36db8c8050eb79c344059619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>effective_date</sys_name>
+        <sys_package display_value="CRF" source="x_isgi_crf">e39605a2db408050eb79c344059619b2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CRF">e39605a2db408050eb79c344059619b2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f4179d36db8c8050eb79c344059619f6</sys_update_name>
+        <sys_updated_by>mohamed.rafiulla@isg-one.com</sys_updated_by>
+        <sys_updated_on>2019-09-26 06:22:22</sys_updated_on>
+        <table>x_isgi_crf_x_isgi_crf</table>
+        <ui_policy display_value="Make Fields Readonly">bef29d7edb4c8050eb79c3440596199f</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
